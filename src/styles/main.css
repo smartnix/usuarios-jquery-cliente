@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body, main{
+    min-height: 100vh;
+    height: 100vh;
+}
+
+.brand-log.pl{
+    padding-left: 10px;
+}
